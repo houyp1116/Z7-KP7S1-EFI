@@ -1,0 +1,2 @@
+# Z7-KP7S1-EFI
+神舟Z7-KP7S1 黑苹果EFI
